@@ -31,7 +31,7 @@ How to Use:
 
 Requirements:
 
-Microsoft Excel 2016 or later.
+Microsoft Excel.
 
 
 Contributions:
