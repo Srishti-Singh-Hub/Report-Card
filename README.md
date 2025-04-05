@@ -37,6 +37,3 @@ Microsoft Excel 2016 or later.
 Contributions:
 
 Contributions are welcome! Feel free to fork the repository, suggest improvements, or submit pull requests.
-
-
-Let me know if you’d like a version with setup instructions or sample screenshots added.
